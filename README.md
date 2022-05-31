@@ -8,9 +8,9 @@
 #
 <br>
 
-- 🛠️ Currently **working on [my portfolio website](https://pjborowiecki.github.io)** and polishing off some exciting project, which I will be sharing with you here shortly.
+- 🛠️ Currently **working on [my portfolio website](https://pjborowiecki.github.io)** and polishing off some exciting project, which I will be sharing with you shortly.
 
-- 👷🏼‍♀️ **Open to offers** and currently **looking for a remote internship or job opportunity**. Fully eligible to live and work in the UK and EU.
+- 👷🏼‍♀️ **Open to offers** and currently **looking for a remote internship/job opportunity**. Fully eligible to live and work in the UK and EU.
 
 - 🧐 In the meantime, I keep honing my web and mobile app developmentment, blockchain and machine learning skills.
 
