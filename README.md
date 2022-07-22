@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Piotr.
 
-### A final year BSc Computer Science student 🧑‍🎓 at Durham University and an aspiring software developer.
+### A final year BSc (Hons) Computer Science student 🧑‍🎓 at Durham University and an aspiring software developer.
 ### Passionate about blockchain and webDev, but also data science and machine learning. 👨‍💻
 ### I am particularly interested in DeFi and deep learning applications in algorithmic trading. 📈🚀
 #### Thank you for visiting my repo, have a great day! 🤗
