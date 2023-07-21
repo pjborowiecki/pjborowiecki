@@ -39,12 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="NextJS logo" />
   <br>
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity logo" />
-  <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" width="40" height="40" alt="Ethereum logo" />
-  <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" width="40" height="35" alt="Hardhat logo" />
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=022" width="40" height="40" alt="Solana logo" />
-  <br>
-  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL logo" />
@@ -55,7 +49,6 @@
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" alt="Rust logo" />
   <br>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch logo" />
