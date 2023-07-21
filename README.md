@@ -84,7 +84,7 @@
 <br>
 
 #### If you found anything here useful, consider buying me a coffee please ☕. <br>
-### Thank you! :)
+### Thank you :)
 
   <a href="https://www.buymeacoffee.com/pjborowiecki"> 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pjborowiecki" />
