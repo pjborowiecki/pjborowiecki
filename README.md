@@ -8,13 +8,13 @@
 #
 <br>
 
-- 🛠️ Currently **working on [my portfolio website](https://pjborowiecki.github.io)** and polishing off some exciting project, which I will be sharing with you shortly.
+- 🛠️ Currently **working on [my portfolio website](https://pjborowiecki.com)** and polishing off some exciting project, which I will be sharing with you shortly.
 
 - 👷🏼‍♀️ **Open to offers** and currently **looking for an internship / job opportunity**. Fully eligible to live and work in the UK and EU.
 
 - 🧐 In the meantime, I keep honing my web and mobile app developmentment, blockchain and machine learning skills.
 
-- 💬 You can **reach me on [LinkedIn](https://www.linkedin.com/in/pjborowiecki/)** or **send an [email](<mailto:https://www.linkedin.com/in/pjborowiecki/>)**.
+- 💬 You can **reach me on [LinkedIn](https://www.linkedin.com/in/pjborowiecki/)** or **via [email](<mailto:hello@pjborowiecki.com/>)**.
 
 #
 <br>
