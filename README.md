@@ -83,7 +83,7 @@
 #
 <br>
 
-#### If you found anything here useful, consider buying me a coffee please ☕. <br>
+#### If you found anything here useful, consider buying me a coffee ☕. <br>
 ### Thank you :)
 
   <a href="https://www.buymeacoffee.com/pjborowiecki"> 
