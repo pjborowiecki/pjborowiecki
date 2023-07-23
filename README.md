@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Piotr.
 
 ### Recent BSc (Hons) Computer Science graduate 🧑‍🎓 from Durham University (UK) and an aspiring software developer.
-### Passionate modern Web Development and Blockchain, but also Data Science and Deep Learning. 👨‍💻
+### Passionate about modern Web Development and Blockchain, but also Data Science and Deep Learning. 👨‍💻
 ### I am particularly interested in DeFi and Deep Learning applications in Algorithmic Trading. 📈🚀
 #### Thank you for visiting my repo, have a great day! 🤗
 
