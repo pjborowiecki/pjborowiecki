@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Piotr.
 
 ### Recent BSc (Hons) Computer Science graduate 🧑‍🎓 from Durham University (UK) and an aspiring software developer.
-### Passionate about modern Web Dev and Blockchain, but also Data Science and Deep Learning. 👨‍💻
-### I am particularly interested in DeFi and Deep Learning applications in Algorithmic Trading. 📈🚀
+### Passionate about modern Web Dev, but also Data Science and Deep Learning. 👨‍💻
+### I am particularly interested Deep Learning applications in Algorithmic Trading and Quantitative Finance. 📈🚀
 #### Thank you for visiting my repo, have a great day! 🤗
 
 #
@@ -12,7 +12,7 @@
 
 - 👷🏼‍♀️ **Open to offers** and currently **looking for an internship / job opportunity**. Fully eligible to live and work in the UK and EU.
 
-- 🧐 In the meantime, I keep honing my web and mobile app developmentment, blockchain and machine learning skills.
+- 🧐 In the meantime, I keep honing my web developmentment, data science and deep learning skills.
 
 - 💬 You can **reach me on [LinkedIn](https://www.linkedin.com/in/pjborowiecki/)** or **via [email](<mailto:hello@pjborowiecki.com/>)**.
 
