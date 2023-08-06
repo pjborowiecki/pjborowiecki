@@ -2,7 +2,7 @@
 
 ### Recent BSc (Hons) Computer Science graduate 🧑‍🎓 from Durham University (UK) and an aspiring software developer.
 ### Passionate about modern Web Dev, but also Data Science and Deep Learning. 👨‍💻
-### I am particularly interested Deep Learning applications in Algorithmic Trading and Quantitative Finance. 📈🚀
+### I am particularly interested Deep Learning applications in finance. 📈🚀
 #### Thank you for visiting my repo, have a great day! 🤗
 
 #
