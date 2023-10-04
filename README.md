@@ -5,7 +5,7 @@
 ### I am particularly interested Deep Learning applications in finance. 📈🚀
 #### Thank you for visiting my repo, have a great day! 🤗
 
-#
+
 <br>
 
 - 🛠️ Currently **working on [my portfolio website](https://pjborowiecki.com)** and polishing off some exciting project, which I will be sharing with you shortly.
@@ -16,7 +16,7 @@
 
 - 💬 You can **reach me on [LinkedIn](https://www.linkedin.com/in/pjborowiecki/)** or **via [email](<mailto:hello@pjborowiecki.com/>)**.
 
-#
+
 <br>
 
 <h3>Languages and tools I use the most:</h3>
@@ -73,14 +73,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma logo" />
 </p>
 
-#
 <br>
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pjborowiecki&" alt="pjborowiecki" />
-
-
-#
 <br>
 
 #### If you found anything here useful, consider buying me a coffee ☕. <br>
