@@ -16,10 +16,9 @@
 
 - 💬 You can **reach me on [LinkedIn](https://www.linkedin.com/in/pjborowiecki/)** or **via [email](<mailto:hello@pjborowiecki.com/>)**.
 
-
 <br>
 
-<h3>Languages and tools I work with:</h3>
+<h2>Languages and tools I work with:</h3>
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
