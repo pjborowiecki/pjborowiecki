@@ -2,7 +2,7 @@
 
 ### Recent BSc (Hons) Computer Science graduate 🧑‍🎓 from Durham University (UK) and an aspiring software developer with over 4 years of practival experience.
 ### Passionate about modern Web Dev, but also Data Science and Deep Learning. 👨‍💻
-### I feel most confident with Node.js (including Nest.js) and React (including Next.js), but I also have practical experience with Java and Deep Learning with Python (top of the class result in Reinforcement Learning in the academic year 2022/2023).
+#### I feel most confident with Node.js (including Nest.js) and React (including Next.js), but I also have practical experience with Java and Deep Learning with Python (top of the class result in Reinforcement Learning in the academic year 2022/2023).
 #### Thank you for visiting my repo, have a great day! 🤗
 
 
