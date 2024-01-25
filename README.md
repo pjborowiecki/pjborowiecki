@@ -71,14 +71,9 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-
-
 </p>
 
 <br>
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pjborowiecki&" alt="pjborowiecki" />
 <br>
 
 #### If you found anything here useful, consider buying me a coffee ☕. <br>
