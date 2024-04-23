@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Piotr.
 
-### Recent BSc (Hons) Computer Science graduate 🧑‍🎓 from Durham University (UK) and an aspiring software developer with over 4 years of practical experience.
+### BSc (Hons) Computer Science graduate from Durham University (UK) and an aspiring software developer with nearly 5 years of practical experience.
 ### Passionate about modern Web Dev, but also Data Science and Deep Learning. 👨‍💻
 #### I feel most confident with Node.js (including Express / NEST.js) and React (including NEXT.js), but I also have practical experience with Java and Artificial Intelligence using Python (top of the class result in Reinforcement Learning in the academic year 2022/2023).
 #### Thank you for visiting my repo, have a great day! 🤗
