@@ -10,10 +10,6 @@
 
 - 🛠️ Currently **working on [my portfolio website](https://pjborowiecki.com)** and polishing off some exciting project, which I will be sharing with you shortly.
 
-- 👷🏼‍♀️ **Open to offers** and currently **looking for an internship / job opportunity**. Fully eligible to live and work in the UK and EU.
-
-- 🧐 In the meantime, I keep honing my web developmentment, data science and deep learning skills.
-
 - 💬 You can **reach me on [LinkedIn](https://www.linkedin.com/in/pjborowiecki/)** or **via [email](<mailto:hello@pjborowiecki.com/>)**.
 
 <br>
