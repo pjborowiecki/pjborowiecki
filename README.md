@@ -74,11 +74,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pjborowiecki&" alt="pjborowiecki" />
 <br>
 
-#### If you found anything here useful, consider buying me a coffee ☕. <br>
-### Thank you :)
-
-  <a href="https://www.buymeacoffee.com/pjborowiecki"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pjborowiecki" />
-  </a>
-
-
