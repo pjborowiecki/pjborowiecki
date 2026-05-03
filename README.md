@@ -31,7 +31,7 @@ I am a software engineer with nearly 5 years of commercial experience, currently
   Collaborating within a top-tier engineering team on the **Financial Transaction Manager (FTM)**, a massive, mission-critical enterprise application. I am actively delivering modern functionality, contributing to extensive UI modernization efforts, and implementing complex financial messaging standards like **ISO 20022**. This high-stakes environment allows me to continuously grow my architectural and engineering capabilities every single day. <br /> <br />
 * 🚀 **Independent Consulting** <br />
   Track record of engineering end-to-end, high-availability booking systems, e-commerce and SaaS platforms for real-world businesses prior to joining IBM. <br > <br />
-* 🛠️ **In the La:** <br />
+* 🛠️ **In the Lab** <br />
   In my free time, I design and build full-stack side projects from the ground up to be production-grade, extremely performant, scalable, and robust. I am currently polishing off a few of these systems, which will be open-sourced and published shortly.
 
 <br>
