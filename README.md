@@ -1,5 +1,5 @@
 # Hi 👋, I'm Piotr.
-**Full-Stack Software Engineer**
+**Full-Stack Software Developer**
 
 I am a software engineer with nearly 5 years of commercial experience, currently building enterprise-scale applications at **IBM**. My expertise lies in engineering and maintaining robust, type-safe full-stack systems, with a deep specialization in the modern React ecosystems. I thrive in complex, high-stakes domains — particularly FinTech, Banking, and B2B SaaS — where scalability, data integrity, and uncompromising performance are baseline requirements.
 
