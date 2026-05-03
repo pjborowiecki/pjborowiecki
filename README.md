@@ -12,7 +12,7 @@ I am a software engineer with nearly 5 years of commercial experience, currently
 * **Databases**: `PostgreSQL` • `SQLite` • `MongoDB`
 * **Secondary Stacks & Tools:** `Vue` • `Nuxt` • `Python`
 
-* <br />
+<br />
 
 ### 💼 Engineering Focus
 * **Modern Web Architecture** <br />
