@@ -1,71 +1,42 @@
-### Hi 👋, I'm Piotr.
+# Hi 👋, I'm Piotr.
+**Full-Stack Software Engineer**
 
-### BSc (Hons) Computer Science graduate from Durham University (UK) and a full-stack software developer with nearly 5 years of practical experience.
-### Passionate about modern Web Dev, but also Data Science and Deep Learning. 👨‍💻
-#### I feel most confident with Node.js (including Express / NEST.js) and React (including NEXT.js) or Vue (including NUXT.js), but I also have practical experience with Java (including Spring Boot), and Artificial Intelligence using Python.
-#### Thank you for visiting my repo, have a great day! 🤗
+I am a software engineer with nearly 5 years of commercial experience, currently building enterprise-scale applications at **IBM**. My expertise lies in engineering and maintaining robust, type-safe full-stack systems, with a deep specialization in the modern React ecosystems. 
 
+I thrive in complex, high-stakes domains — particularly FinTech, Banking, and B2B SaaS — where scalability, data integrity, and uncompromising performance are baseline requirements.
+
+<br />
+
+### 💼 Engineering Focus
+* **Modern Web Architecture** <br />
+  I specialized in **TypeScript**, **React**, and **Next.js**, but actively leverage bleeding-edge tools like **TanStack Start**. <br /> <br />
+* **Backend & Systems** <br />
+  Building fast, concurrent APIs and microservices primarily using **Node.js (NestJS/Express)** and **Go** (with a growing interest in Rust). <br /> <br />
+* **Versatility** <br />
+  Practical experience across the broader frontend landscape, including **Vue** and **Nuxt**, allowing me to adapt to varied technical environments. <br /> <br />
+* **Algorithmic Foundation** <br />
+  **BSc (Hons) Computer Science from Durham University (UK)**. Strong background in complex logic and data processing, backed by top-of-class academic achievements (98% in advanced algorithmic modules like Reinforcement Learning).
 
 <br>
 
-- 🛠️ Currently **working on [my portfolio website](https://pjborowiecki.com)** and polishing off some exciting project, which I will be sharing with you shortly.
-
-- 💬 You can **reach me on [LinkedIn](https://www.linkedin.com/in/pjborowiecki/)** or **via [email](<mailto:hello@pjborowiecki.com/>)**.
+### 🛠️ Technical Ecosystem
+* **Core Ecosystem:** `TypeScript` • `JavaScript` • `React` • `Next.js` • `TanStack Start / Query`
+* **Backend & APIs:** `Node.js` • `Nest.js` • `Go` • `GraphQL` • `REST` • `tRPC / oRPC / gRPC`
+* **Infrastructure:** `Docker` • `Kubernetes` • `Cloudflare` • `AWS` • `GitHub Actions / Workflows`
+* **Databases**: `PostgreSQL` • `SQLite` • `MongoDB`
+* **Secondary Stacks & Tools:** `Vue` • `Nuxt` • `Python`
 
 <br>
 
-<h2>Languages and tools I work with:</h3>
+### 📈 Professional Trajectory & Projects
+* 🏢 **IBM** <br />
+  Collaborating within a top-tier engineering team on the **Financial Transaction Manager (FTM)**, a massive, mission-critical enterprise application. I am actively delivering modern functionality, contributing to extensive UI modernization efforts, and implementing complex financial messaging standards like **ISO 20022**. This high-stakes environment allows me to continuously grow my architectural and engineering capabilities every single day. <br /> <br />
+* 🚀 **Independent Consulting** <br />
+  Track record of engineering end-to-end, high-availability booking systems, e-commerce and SaaS platforms for real-world businesses prior to joining IBM. <br > <br />
+* 🛠️ **In the La:** <br />
+  In my free time, I design and build full-stack side projects from the ground up to be production-grade, extremely performant, scalable, and robust. I am currently polishing off a few of these systems, which will be open-sourced and published shortly.
 
-<p align="left"> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-C69?style=for-the-badge&logo=sass&logoColor=fff" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<br>
 
-  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Remix-000?style=for-the-badge&logo=remix&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" />  
-  <img src="https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-</p>
+### 🤝 Let's Connect
+**[LinkedIn](https://www.linkedin.com/in/pjborowiecki/)** | **[Email](mailto:hello@pjborowiecki.com)** | **[pjborowiecki.com](https://pjborowiecki.com)**
