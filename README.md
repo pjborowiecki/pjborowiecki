@@ -6,8 +6,8 @@ I am a software engineer with nearly 5 years of commercial experience, currently
 <br>
 
 ### 🛠️ Technical Ecosystem
-* **Core Ecosystem:** `TypeScript` • `JavaScript` • `React` • `Next.js` • `TanStack Start / Query`
-* **Backend & APIs:** `Node.js` • `Nest.js` • `Go` • `GraphQL` • `REST` • `tRPC / oRPC / gRPC`
+* **Core Ecosystem:** `TypeScript` • `JavaScript` • `React` • `Next.js` • `React Router (Remix)`• `TanStack Start / Query`
+* **Backend & APIs:** `Node.js` • `Nest.js` • `Go` • `GraphQL` • `REST` • `tRPC / oRPC / gRPC` • `Microservices`
 * **Infrastructure:** `Docker` • `Kubernetes` • `Cloudflare` • `AWS` • `GitHub Actions / Workflows`
 * **Databases**: `PostgreSQL` • `SQLite` • `MongoDB`
 * **Secondary Stacks & Tools:** `Vue` • `Nuxt` • `Python`
