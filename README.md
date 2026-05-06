@@ -10,6 +10,7 @@ I am a software engineer with nearly 5 years of commercial experience, currently
 * **Backend & APIs:** `Node.js` • `Nest.js` • `Go` • `GraphQL` • `REST` • `tRPC / oRPC / gRPC` • `Microservices`
 * **Infrastructure:** `Docker` • `Kubernetes` • `Cloudflare` • `AWS` • `GitHub Actions / Workflows`
 * **Databases**: `PostgreSQL` • `SQLite` • `MongoDB`
+* **Testing**: `Vitest` • `React Testing Library` • `Playwright`
 * **Secondary Stacks & Tools:** `Vue` • `Nuxt` • `Python`
 
 <br />
