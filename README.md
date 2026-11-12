@@ -17,7 +17,7 @@ I am a software engineer with nearly 5 years of commercial experience, currently
 
 ### 💼 Engineering Focus
 * **Modern Web Architecture** <br />
-  I specialized in **TypeScript**, **React**, and **Next.js**, but actively leverage bleeding-edge tools like **TanStack Start**. <br /> <br />
+  I specialise in **TypeScript** and **React**, including tools like **TanStack Start** and **Next.js**. <br /> <br />
 * **Backend & Systems** <br />
   Building fast, concurrent APIs and microservices primarily using **Node.js (Nest.js/Express)** and **Go** (with a growing interest in Rust). <br /> <br />
 * **Versatility** <br />
