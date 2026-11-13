@@ -2,7 +2,9 @@
 
 **Full-stack software engineer at IBM · Payments & ISO 20022 · TypeScript, React, Node.js, Go**
 
-I work across enterprise systems and independent product development. At **IBM**, I work in the **Financial Transaction Manager (FTM)** team. FTM is a payment-processing platform that financial institutions use to orchestrate and monitor their payments. My main area is payment message entry and repair, across both the user interface and the backend-for-frontend services. Before IBM I ran my own freelance practice, designing and delivering complete products for clients and owning everything from architecture and data modelling to backend, interface, deployment and support.
+I work across enterprise systems and independent product development. At **IBM**, I work in the **Financial Transaction Manager (FTM)** team. FTM is a payment-processing platform that financial institutions use to orchestrate and monitor their payments. My main area is payment message entry and repair, across both the user interface and the backend-for-frontend services.
+
+Before IBM I ran my own freelance practice, designing and delivering complete products for clients and owning everything from architecture and data modelling to backend, interface, deployment and support.
 
 In both settings, most of my work has been about handling complexity: large forms with strict validation, data-heavy tables and filtering, booking and checkout flows, and payment data that has to be exactly right. I care about accessibility, performance and code that's still maintainable years later.
 
