@@ -9,7 +9,7 @@ In all of these settings, most of my work has been about handling complexity: la
 
 <br>
 
-### 🛠️ Technical Ecosystem
+### Technical Ecosystem
 
 | | Core | Regular | Familiar |
 |---|---|---|---|
@@ -22,7 +22,7 @@ In all of these settings, most of my work has been about handling complexity: la
 
 <br>
 
-### 🎓 Education & Background
+### Education & Background
 * **BSc (Hons) Computer Science, Durham University (UK)** · *2019 – 2023* <br />
   Modules included deep learning and reinforcement learning. <br /> <br />
 * **Before engineering** <br />
@@ -32,8 +32,8 @@ In all of these settings, most of my work has been about handling complexity: la
 
 <br>
 
-### 💼 Experience
-* 🏢 **IBM – Software Engineer, Financial Transaction Manager** · *Jul 2024 – present* <br />
+### Experience
+* **IBM – Software Engineer, Financial Transaction Manager** · *Jul 2024 – present* <br />
   Full-stack engineer on FTM's web layer, working across the user interface and the Node.js backend-for-frontend services.
   * **Message entry and repair:** my main area. I build the flows for creating, viewing and repairing pain.001, pacs.008, pacs.009 and other ISO 20022 messages, on both the UI and the backend-for-frontend, working closely with other engineers. Recently I've focused mostly on repair, where operators fix payments that couldn't be processed automatically.
   * **Core data table:** I was entrusted with, and responsible for, replacing the deprecated Carbon for IBM Products Datagrid, one of the most important components in the product. I built the new table from scratch on the TanStack Table engine with Carbon Design System components, following Carbon's recommended migration path, and other engineers have extended it since.
@@ -41,7 +41,7 @@ In all of these settings, most of my work has been about handling complexity: la
   * **Backend-for-frontend:** parsing and generating ISO 20022 XML, transforming and validating JSON payloads, and mapping deeply nested message structures in both directions.
   * **Enterprise-scale quality:** large multi-section forms with standard-driven validation, plus accessibility, performance and maintainability in a large, long-lived TypeScript codebase.
 
-* 🚀 **Freelance – Software Engineer** · *Mar 2022 – Jun 2024* <br />
+* **Freelance – Software Engineer** · *Mar 2022 – Jun 2024* <br />
   Sole engineer on full-stack products for businesses, working directly with clients and owning everything from requirements to deployment and support.
   * **E-commerce:** a bilingual storefront and back office for a jewellery brand, with catalogue, filtering, cart, wishlist, email and Google sign-in, order management and an audit log, running serverless on Cloudflare.
   * **Booking:** a website with online appointment booking and authentication for a veterinary clinic (Next.js, TypeScript, PostgreSQL).
@@ -49,7 +49,7 @@ In all of these settings, most of my work has been about handling complexity: la
 
 <br>
 
-### 🧭 Interests
+### Interests
 * **Modern web development**
   I spend a lot of my own time on modern full-stack web development: building projects, trying new tools and following where the ecosystem is heading.
   
@@ -61,5 +61,5 @@ In all of these settings, most of my work has been about handling complexity: la
 
 <br>
 
-### 🤝 Let's Connect
+### Let's Connect
 **[LinkedIn](https://www.linkedin.com/in/pjborowiecki/)** | **[Email](mailto:hello@pjborowiecki.com)** | **[pjborowiecki.com](https://pjborowiecki.com)**
