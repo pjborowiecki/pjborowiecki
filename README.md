@@ -28,7 +28,7 @@ In all of these settings, most of my work has been about handling complexity: la
 Modules included deep learning and reinforcement learning.
 
 **Before engineering** <br />
-I built my first websites at 16, for the bands I played drums in, and local businesses were soon asking me to build theirs. Before moving into engineering full-time, I spent around a decade in hospitality in England, working my way up to assistant manager. That meant running teams and shifts, handling pressure, resolving conflicts and dealing directly with unhappy customers. It still shapes how I work: I communicate clearly, stay calm when things go wrong, and keep the people using the product in view.
+I built my first websites at 16, for the bands I played drums in, and local businesses were soon asking me to build theirs. Before moving into engineering full-time, I spent seven years in hospitality in England, working my way up to assistant manager. That meant running teams and shifts, handling pressure, resolving conflicts and dealing directly with unhappy customers. It still shapes how I work: I communicate clearly, stay calm when things go wrong, and keep the people using the product in view.
 
 <br>
 
