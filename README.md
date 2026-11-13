@@ -26,7 +26,9 @@ In all of these settings, most of my work has been about handling complexity: la
 * **BSc (Hons) Computer Science, Durham University (UK)** · *2019 – 2023* <br />
   Modules included deep learning and reinforcement learning. <br /> <br />
 * **Before engineering** <br />
-  I built my first websites at 16, for the bands I played drums in, and local businesses were soon asking me to build theirs. Before moving into engineering full-time, I spent around a decade in hospitality in England, working my way up to assistant manager. That meant running teams and shifts, handling pressure, resolving conflicts and dealing directly with unhappy customers. It still shapes how I work: I communicate clearly, stay calm when things go wrong, and keep the people using the product in view.
+  I built my first websites at 16, for the bands I played drums in, and local businesses were soon asking me to build theirs.
+  
+  Before moving into engineering full-time, I spent around a decade in hospitality in England, working my way up to assistant manager. That meant running teams and shifts, handling pressure, resolving conflicts and dealing directly with unhappy customers. It still shapes how I work: I communicate clearly, stay calm when things go wrong, and keep the people using the product in view.
 
 <br>
 
@@ -48,11 +50,13 @@ In all of these settings, most of my work has been about handling complexity: la
 <br>
 
 ### 🧭 Interests
-* **Markets** <br />
-  Outside of work, I trade and invest actively, and markets have been a big interest of mine for years, including the quantitative side. <br /> <br />
-* **Modern web development** <br />
-  I spend a lot of my own time on modern full-stack web development: building projects, trying new tools and following where the ecosystem is heading. <br /> <br />
-* **System design and AI** <br />
+* **Modern web development**
+  I spend a lot of my own time on modern full-stack web development: building projects, trying new tools and following where the ecosystem is heading.
+  
+* **Markets**
+  Outside of work, I trade and invest actively, and markets have been a big interest of mine for years, including the quantitative side.
+  
+* **System design and AI**
   I work with AI coding agents every day, and in my experience the results depend less on the model than on what surrounds it: a well-built harness, clear guardrails, solid tests, and an engineer's judgement about what to accept and what to throw away.
 
 <br>
