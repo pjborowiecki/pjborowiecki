@@ -14,9 +14,9 @@ In all of these settings, most of my work has been about handling complexity: la
 | | Core | Regular | Familiar |
 |---|---|---|---|
 | **Languages** | `TypeScript` `JavaScript` | `Go` `Python` | `Java` `Kotlin` |
-| **Frontend** | `React` `TanStack Start` `TanStack Router` `TanStack Query` `TanStack Table` `TanStack Form` `Next.js` `React Router (Remix)` `Carbon Design System` `Tailwind CSS` | `Angular` `Analog` `Spartan` | `Vue` `Nuxt` |
-| **Backend** | `Node.js` `Bun` `Express` `REST` `tRPC` `oRPC` `Better Auth` `PostgreSQL` `SQLite` `Drizzle ORM` `Cloudflare D1` | `NestJS` `GraphQL` `gRPC` `Microservices` | `MongoDB` |
-| **Infra & Testing** | `Docker` `Cloudflare Workers` `Git` `GitHub Actions` `Vitest` `React Testing Library` `Playwright` | `Vercel` `Neon` | `AWS` `Kubernetes` |
+| **Frontend** | `React` `TanStack Start` `TanStack Router` `TanStack Query` `TanStack Table` `TanStack Form` `Next.js` `React Router (Remix)` `Carbon Design System` `Tailwind CSS` | `Angular` `Analog` `Spartan` | `Vue` `Nuxt` |
+| **Backend** | `Node.js` `Bun` `Express` `REST` `tRPC` `oRPC` `Better Auth` `PostgreSQL` `SQLite` `Drizzle ORM` `Cloudflare D1` | `NestJS` `GraphQL` `gRPC` `Microservices` | `MongoDB` |
+| **Infra & Testing** | `Docker` `Cloudflare Workers` `Git` `GitHub Actions` `Vitest` `React Testing Library` `Playwright` | `Vercel` `Neon` | `AWS` `Kubernetes` |
 
 **Domain & practices:** ISO 20022 (pain, pacs) · payment message entry and repair · XML ⇄ JSON mapping · accessibility (WCAG) · i18n and time zones · WebSockets · auth and billing integrations · AI-assisted and agentic development
 
@@ -26,7 +26,7 @@ In all of these settings, most of my work has been about handling complexity: la
 * **BSc (Hons) Computer Science, Durham University (UK)** · *2019 – 2023* <br />
   Modules included deep learning and reinforcement learning.
 * **Before engineering** <br />
-  I built my first websites at 16, for the bands I played drums in, and local businesses were soon asking me to build theirs. <br />
+  I built my first websites at 16, for the bands I played drums in, and local businesses were soon asking me to build theirs. <br /><br />
   Before moving into engineering full-time, I spent around a decade in hospitality in England, working my way up to assistant manager. That meant running teams and shifts, handling pressure, resolving conflicts and dealing directly with unhappy customers. It still shapes how I work: I communicate clearly, stay calm when things go wrong, and keep the people using the product in view.
 
 <br>
