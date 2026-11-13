@@ -2,19 +2,19 @@
 
 **Full-stack software engineer at IBM · Payments & ISO 20022 · TypeScript, React, Node.js, Go**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pjborowiecki/)
+[![Website](https://img.shields.io/badge/pjborowiecki.com-111111?style=flat&logo=googlechrome&logoColor=white)](https://pjborowiecki.com)
+[![Email](https://img.shields.io/badge/hello@pjborowiecki.com-D14836?style=flat&logo=maildotru&logoColor=white)](mailto:hello@pjborowiecki.com)
+
 I work across enterprise systems and independent product development. At **IBM**, I work in the **Financial Transaction Manager (FTM)** team. FTM is a payment-processing platform that financial institutions use to orchestrate and monitor their payments. My main area is payment message entry and repair, across both the user interface and the backend-for-frontend services.
 
-Before IBM I ran my own freelance practice, designing and delivering complete products for clients and owning everything from architecture and data modelling to backend, interface, deployment and support.
+Alongside IBM, I build my own projects, including **[SaaSyLand](https://github.com/saasyland/saasyland.com)**, an open-source foundation for production-ready SaaS apps, and the learning platforms **[reactprojects.com](https://reactprojects.com)** and **[angularprojects.com](https://angularprojects.com)**. Before IBM, I freelanced full-time, designing and delivering complete products for clients and owning everything from architecture and data modelling to backend, interface, deployment and support.
 
-In both settings, most of my work has been about handling complexity: large forms with strict validation, data-heavy tables and filtering, booking and checkout flows, and payment data that has to be exactly right. I care about accessibility, performance and code that's still maintainable years later.
+In all of these settings, most of my work has been about handling complexity: large forms with strict validation, data-heavy tables and filtering, booking and checkout flows, and payment data that has to be exactly right. I care about accessibility, performance and code that's still maintainable years later. The projects I enjoy most have a complex domain behind them: financial data, detailed standards, real-time updates, and workflows where small mistakes are expensive.
 
-The projects I enjoy most have a complex domain behind them: financial data, detailed standards, real-time updates, and workflows where small mistakes are expensive.
-
-Outside of work, I'm most interested in fintech, payments and markets. I've invested and traded for years, and I like learning how the systems behind it work: how payments move between banks, how ISO 20022 describes them, and how trading platforms handle market data.
+Outside of work, I trade and invest actively, and markets have been a big interest of mine for years, including the quantitative side. I also spend a lot of my own time on modern full-stack web development: building projects, trying new tools and following where the ecosystem is heading.
 
 I'm also interested in system design and AI-enabled products. I work with AI coding agents every day, and in my experience the results depend less on the model than on what surrounds it: a well-built harness, clear guardrails, solid tests, and an engineer's judgement about what to accept and what to throw away.
-
-<br>
 
 ### 🛠️ Tech
 
@@ -27,20 +27,17 @@ I'm also interested in system design and AI-enabled products. I work with AI cod
 
 **Domain & practices:** ISO 20022 (pain, pacs) · payment message entry and repair · XML ⇄ JSON mapping · accessibility (WCAG) · i18n and time zones · WebSockets · auth and billing integrations · AI-assisted and agentic development
 
-<br>
-
 ### 🎓 Education & background
 
-**BSc (Hons) Computer Science**, Durham University (UK), 2019–2023. Modules included deep learning and reinforcement learning.
+**Durham University** · BSc (Hons) Computer Science<br>
+<sub>2019 – 2023 · Durham, UK · Modules included deep learning and reinforcement learning</sub>
 
 I built my first websites at 16, for the bands I played drums in, and local businesses were soon asking me to build theirs. Before moving into engineering full-time, I spent around a decade in hospitality in England, working my way up to assistant manager. That meant running teams and shifts, handling pressure, resolving conflicts and dealing directly with unhappy customers. It still shapes how I work: I communicate clearly, stay calm when things go wrong, and keep the people using the product in view.
 
-<br>
-
 ### 💼 Experience
 
-**IBM – Software Engineer** · Jul 2024 – present <br />
-Full-stack engineer on FTM's web layer, working across the user interface and the Node.js backend-for-frontend services.
+**IBM** · Software Engineer, Financial Transaction Manager<br>
+<sub>Jul 2024 – present · Kraków, Poland · UI and Node.js backend-for-frontend</sub>
 
 - **Message entry and repair:** my main area. I build the flows for creating, viewing and repairing pain.001, pacs.008, pacs.009 and other ISO 20022 messages, on both the UI and the backend-for-frontend, working closely with other engineers. Recently I've focused mostly on repair, where operators fix payments that couldn't be processed automatically.
 - **Core data table:** I was entrusted with, and responsible for, replacing the deprecated Carbon for IBM Products Datagrid, one of the most important components in the product. I built the new table from scratch on the TanStack Table engine with Carbon Design System components, following Carbon's recommended migration path, and other engineers have extended it since.
@@ -48,14 +45,9 @@ Full-stack engineer on FTM's web layer, working across the user interface and th
 - **Backend-for-frontend:** parsing and generating ISO 20022 XML, transforming and validating JSON payloads, and mapping deeply nested message structures in both directions.
 - **Enterprise-scale quality:** large multi-section forms with standard-driven validation, plus accessibility, performance and maintainability in a large, long-lived TypeScript codebase.
 
-**Freelance – Software Engineer** · Mar 2022 – Jun 2024 <br />
-Sole engineer on full-stack products for businesses, working directly with clients and owning everything from requirements to deployment and support.
+**Freelance** · Software Engineer<br>
+<sub>Mar 2022 – Jun 2024 · Remote · Sole engineer, working directly with clients from requirements to deployment and support</sub>
 
 - **E-commerce:** a bilingual storefront and back office for a jewellery brand, with catalogue, filtering, cart, wishlist, email and Google sign-in, order management and an audit log, running serverless on Cloudflare.
 - **Booking:** a website with online appointment booking and authentication for a veterinary clinic (Next.js, TypeScript, PostgreSQL).
 - **Working with clients:** turning business needs into requirements, estimating and planning work, and explaining technical trade-offs to non-technical owners.
-
-<br>
-
-### 🤝 Let's connect
-**[LinkedIn](https://www.linkedin.com/in/pjborowiecki/)** · **[Email](mailto:hello@pjborowiecki.com)** · **[pjborowiecki.com](https://pjborowiecki.com)**
