@@ -38,7 +38,7 @@ I built my first websites at 16, for the bands I played drums in, and local busi
   * **Core data table:** I was entrusted with, and responsible for, replacing the deprecated Carbon for IBM Products Datagrid, one of the most important components in the product. I built the new table from scratch on TanStack Table with Carbon Design System components, following Carbon's recommended migration path, and other engineers have extended it since.
   * **Time zones and formatting:** responsible for time-zone handling and locale-aware formatting of dates, numbers and currency amounts across the application. These were handled inconsistently from screen to screen, so I built one shared approach and moved a large part of the application onto it.
   * **Backend-for-frontend:** parsing and generating ISO 20022 XML, transforming and validating JSON payloads, and mapping deeply nested message structures in both directions.
-  * **Enterprise-scale quality:** large multi-section forms with standard-driven validation, plus accessibility, performance and maintainability in a large, long-lived TypeScript codebase.
+  * **Enterprise-scale quality:** large multi-section forms with standard-driven validation, plus accessibility, performance and maintainability in a large, long-lived codebase.
 * **Freelance – Software Engineer** · *Mar 2022 – Jun 2024*
   * **E-commerce:** a bilingual storefront and back office for a jewellery brand, with customer accounts, order management and an audit log, running serverless on Cloudflare.
   * **Booking:** a website with online appointment booking and authentication for a veterinary clinic (Next.js, TypeScript, PostgreSQL).
