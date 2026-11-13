@@ -3,7 +3,7 @@
 
 I build software across enterprise systems and independent product development. At **IBM**, I work in the **Financial Transaction Manager (FTM)** team. FTM is a payment-processing platform that financial institutions use to orchestrate and monitor their payments. My main area is payment message entry and repair, across both the user interface and the backend-for-frontend services.
 
-Alongside IBM, I build my own projects, including **[SaaSyLand](https://github.com/saasyland/saasyland.com)**, an open-source foundation for production-ready SaaS apps, and the learning platforms **[reactprojects.com](https://reactprojects.com)** and **[angularprojects.com](https://angularprojects.com)**. Before IBM, I freelanced full-time, designing and delivering complete products for clients and owning everything from architecture and data modelling to backend, interface, deployment and support.
+Alongside IBM, I build my own projects in public, including **[SaaSyLand](https://github.com/saasyland/saasyland.com)**, an open-source foundation for production-ready SaaS apps, and the learning platforms **[reactprojects.com](https://reactprojects.com)** and **[angularprojects.com](https://angularprojects.com)**. Before IBM, I freelanced full-time, designing and delivering complete products for clients and owning everything from architecture and data modelling to backend, interface, deployment and support.
 
 In all of these settings, most of my work has been about handling complexity: large forms with strict validation, data-heavy tables and filtering, booking and checkout flows, and payment data that has to be exactly right. I care about accessibility, performance and code that's still maintainable years later. The projects I enjoy most have a complex domain behind them: financial data, detailed standards, real-time updates, and workflows where small mistakes are expensive.
 
@@ -23,11 +23,12 @@ In all of these settings, most of my work has been about handling complexity: la
 <br>
 
 ### Education & Background
-* **BSc (Hons) Computer Science, Durham University (UK)** · *2019 – 2023* <br />
-  Modules included deep learning and reinforcement learning.
-* **Before engineering** <br />
-  I built my first websites at 16, for the bands I played drums in, and local businesses were soon asking me to build theirs. <br /><br />
-  Before moving into engineering full-time, I spent around a decade in hospitality in England, working my way up to assistant manager. That meant running teams and shifts, handling pressure, resolving conflicts and dealing directly with unhappy customers. It still shapes how I work: I communicate clearly, stay calm when things go wrong, and keep the people using the product in view.
+
+**BSc (Hons) Computer Science, Durham University (UK)** · *2019 – 2023* <br />
+Modules included deep learning and reinforcement learning.
+
+**Before engineering** <br />
+I built my first websites at 16, for the bands I played drums in, and local businesses were soon asking me to build theirs. Before moving into engineering full-time, I spent around a decade in hospitality in England, working my way up to assistant manager. That meant running teams and shifts, handling pressure, resolving conflicts and dealing directly with unhappy customers. It still shapes how I work: I communicate clearly, stay calm when things go wrong, and keep the people using the product in view.
 
 <br>
 
