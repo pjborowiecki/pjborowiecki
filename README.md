@@ -16,7 +16,7 @@ In all of these settings, most of my work has been about handling complexity: la
 | **Languages** | `TypeScript` `JavaScript` | `Go` `Python` `Java` | `Kotlin` `C++` |
 | **Frontend** | `React` `TanStack Start` `TanStack Router` `TanStack Query` `TanStack Table` `TanStack Form` `Next.js` `React Router (Remix)` `Carbon Design System` `Tailwind CSS` | `Angular` `Analog` `Spartan` | `Vue` `Nuxt` |
 | **Backend** | `Node.js` `Bun` `Express` `REST` `tRPC` `oRPC` `Better Auth` `PostgreSQL` `SQLite` `Drizzle ORM` `Cloudflare D1` | `NestJS` `GraphQL` `gRPC` `Microservices` | `Spring Boot` `Kafka` `Redis` `MongoDB` |
-| **Infra & Testing** | `Docker` `Cloudflare Workers` `Git` `GitHub Actions` `Vitest` `React Testing Library` `Playwright` | `Vercel` `Neon` | `AWS` `Kubernetes` |
+| **Infra & Testing** | `Cloudflare Workers` `Git` `GitHub Actions` `Vitest` `React Testing Library` `Playwright` |  `Docker`  | `AWS` `Kubernetes` |
 
 **Domain & practices:** ISO 20022 (pain, pacs) · payment message entry and repair · XML ⇄ JSON mapping · accessibility (WCAG) · i18n and time zones · WebSockets · auth and billing integrations · AI-assisted and agentic development · machine learning with PyTorch (deep learning, reinforcement learning, time-series forecasting)
 
