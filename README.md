@@ -22,6 +22,33 @@ In all of these settings, most of my work has been about handling complexity: la
 
 <br>
 
+### Open Source
+
+I fix bugs upstream in the libraries I build with. Each fix includes a regression test.
+
+**Merged and released**
+
+* **[Video.js](https://github.com/videojs/video.js)** (40k+ stars)
+  * [#9765](https://github.com/videojs/video.js/pull/9765): thumbnails stopped loading with HLS media adapters, because the track lookup rejected any media that wasn't an HTML element. Shipped in `@videojs/utils` 10.5.0.
+* **[Fumadocs](https://github.com/fuma-nama/fumadocs)** (13k+ stars)
+  * [#3826](https://github.com/fuma-nama/fumadocs/pull/3826): the MDX client loader typed every page's `frontmatter` and `default` exports as `unknown`, a type regression for all of its users. Shipped in `fumadocs-mdx` 15.6.1.
+  * [#3856](https://github.com/fuma-nama/fumadocs/pull/3856): with TanStack Router, `usePathname()` gave components that mount during a navigation the next page's path, causing React hydration mismatches. Shipped in `fumadocs-core` 16.19.3.
+  * [#3857](https://github.com/fuma-nama/fumadocs/pull/3857): every code block rendered an unnamed region landmark, so any page with two or more failed axe-core's `landmark-unique` accessibility rule. Shipped in `fumadocs-ui` 16.19.3.
+* **[Takumi](https://github.com/kane50613/takumi)** (3k+ stars)
+  * [#2560](https://github.com/kane50613/takumi/pull/2560): in the Rust rendering core, a font registered as `Geist` was hidden by the built-in, Latin-only Geist, so Cyrillic and Latin Extended text rendered as missing-glyph boxes, including through `googleFonts(["Geist"])`. Merged with follow-up commits from the maintainer. Shipped in Takumi 2.21.0.
+
+**Landed by the maintainer, crediting my patch**
+
+* **[Motion](https://github.com/motiondivision/motion)** (35k+ stars)
+  * [#4089](https://github.com/motiondivision/motion/issues/4089): `LazyMotion` turned a failed async `features` import into an unhandled promise rejection. The repository only accepts pull requests from collaborators, so I posted a fix with a test on a branch, and the maintainer landed the same approach in [#4093](https://github.com/motiondivision/motion/pull/4093).
+
+**In review**
+
+* **[TanStack Router](https://github.com/TanStack/router)** (15k+ stars)
+  * [#8934](https://github.com/TanStack/router/pull/8934): with SSR scroll restoration, the first render after hydration scrolled the window back to the top, undoing any scrolling a visitor did while the page hydrated.
+
+<br>
+
 ### Experience
 
 **IBM – Software Engineer, Financial Transaction Manager** · *Jul 2024 – present*
