@@ -24,7 +24,7 @@ In all of these settings, most of my work has been about handling complexity: la
 
 ### Open Source
 
-I fix bugs upstream in the libraries I build with. Each fix includes a regression test.
+I fix bugs upstream in the libraries I build with.
 
 **Merged and released**
 
@@ -44,6 +44,8 @@ I fix bugs upstream in the libraries I build with. Each fix includes a regressio
 
 **In review**
 
+* **[Better Auth](https://github.com/better-auth/better-auth)** (30k+ stars)
+  * [#12873](https://github.com/better-auth/better-auth/pull/12873): with the `haveIBeenPwned()` plugin enabled, `password.hash` threw "No auth context found" when called outside a request, such as in a seed or migration script.
 * **[TanStack Router](https://github.com/TanStack/router)** (15k+ stars)
   * [#8934](https://github.com/TanStack/router/pull/8934): with SSR scroll restoration, the first render after hydration scrolled the window back to the top, undoing any scrolling a visitor did while the page hydrated.
 
@@ -63,29 +65,4 @@ I fix bugs upstream in the libraries I build with. Each fix includes a regressio
 **Freelance – Software Engineer** · *Mar 2022 – Jun 2024*
 
 * **E-commerce:** a bilingual storefront and back office for a jewellery brand, with customer accounts, order management and an audit log, running serverless on Cloudflare.
-* **Booking:** a website with online appointment booking and authentication for a veterinary clinic (Next.js, TypeScript, PostgreSQL). The code is [open source](https://github.com/pjborowiecki/ARKA-Veterinary-Clinic-Page-and-Appointment-Booking-System), with 160+ stars.
-* **Working with clients:** as the sole engineer, turning business needs into requirements, estimating and planning work, and explaining technical trade-offs to non-technical owners.
-* **Open source:** created [SaaSyLand](https://github.com/saasyland/saasyland.com), an open-source starter kit for production-ready SaaS apps, with 430+ stars and 100+ forks.
-
-<br>
-
-### Education
-
-**BSc (Hons) Computer Science, Durham University (UK)** · *2019 – 2023* <br />
-Dissertation: *Probabilistic Time Series Forecasting with Diffusion*. <br />
-Modules included Reinforcement Learning (98%, the top result in my year) and Deep Learning.
-
-<br>
-
-### Interests
-* **Modern web development** <br />
-I built my first websites at 16, for the bands I played drums in, and local businesses were soon asking me to build theirs. I still spend a lot of my own time on modern full-stack web development: building projects, trying new tools and following where the ecosystem is heading.
-* **Markets** <br />
-Outside of work, I trade and invest actively, and markets have been a big interest of mine for years, including the quantitative side.
-* **AI-assisted engineering** <br />
-I work with AI coding agents every day, and in my experience the results depend less on the model than on what surrounds it: a well-built harness, clear guardrails, solid tests, and an engineer's judgement about what to accept and what to throw away.
-
-<br>
-
-### Let's Connect
-**[LinkedIn](https://www.linkedin.com/in/pjborowiecki/)** | **[Email](mailto:hello@pjborowiecki.com)**
+* **Booking:** a website with online appointment booking and authentication for a
